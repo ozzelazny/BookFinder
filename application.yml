@@ -1,0 +1,5 @@
+server:
+  port: 8080
+goodreads:
+  key: RDfV4oPehM6jNhxfNQzzQ
+  url: https://www.goodreads.com/search.xml
